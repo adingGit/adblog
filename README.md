@@ -1,6 +1,6 @@
 # adblog
 
-> ading blog project
+> 阿丁的博客开源项目
 
 ## Build Setup
 
