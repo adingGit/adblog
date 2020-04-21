@@ -1,0 +1,1 @@
+pm2 reload adblog & pm2 list & pause
