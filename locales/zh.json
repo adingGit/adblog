@@ -1,0 +1,76 @@
+{
+  "appOwner": "阿丁",
+  "appTitle": "的博客",
+  "navbar": [{
+    "name": "首页",
+    "path": "/"
+  },{
+    "name": "前端",
+    "path": "/type/front"
+  },{
+    "name": "苍穹",
+    "path": "/type/kdcloud"
+  },{
+    "name": "PHP",
+    "path": "/type/PHP"
+  },{
+    "name": "数据库",
+    "path": "/type/MySQL"
+  },{
+    "name": "其他",
+    "path": "/type/other"
+  },{
+    "name": "关于",
+    "path": "/aboutme"
+  }],
+  "pleaseEnterKeyword": "请输入搜索关键字",
+  "myLabel": "我的标签",
+  "copyright": "版权所有",
+  "search": "搜索",
+  "langs": [{
+    "name": "中文",
+    "value": "zh"
+  },{
+    "name": "英文",
+    "value": "en"
+  }],
+  "isNoData": "暂无数据",
+  "aboutme": {
+    "gitAddress": "项目代码地址",
+    "motto": "故不积跬步，无以至千里；不积小流，无以成江海。"
+  },
+  "expand": "展开",
+  "expandIcon": "el-icon-d-arrow-right",
+  "collapse": "收起",
+  "collapseIcon": "el-icon-d-arrow-left",
+  "kdcloudBlog": {
+    "name": "阿丁博文",
+    "icon": "el-icon-document",
+    "iframeUrl": "/type/kdcloud"
+  },
+  "kdcloudMenus": [{
+    "name": "领域模型",
+    "icon": "el-icon-s-promotion",
+    "iframeUrl": "/kdapi/core/"
+  },{
+    "name": "基础服务",
+    "icon": "el-icon-menu",
+    "iframeUrl": "/kdapi/base/"
+  },{
+    "name": "云架构",
+    "icon": "el-icon-s-shop",
+    "iframeUrl": "/kdapi/corelib/"
+  },{
+    "name": "组件API",
+    "icon": "el-icon-s-ticket",
+    "iframeUrl": "/kdapi/fddoc/"
+  },{
+    "name": "工作流",
+    "icon": "el-icon-s-flag",
+    "iframeUrl": "/kdapi/wf/"
+  },{
+    "name": "java包查询",
+    "icon": "el-icon-s-opportunity",
+    "iframeUrl": "/kdapi/ks-api/"
+  }]
+}

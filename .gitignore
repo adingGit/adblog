@@ -88,4 +88,5 @@ sw.*
 
 # Vim swap files
 *.swp
-/package-lock.json
+
+static/kdapi

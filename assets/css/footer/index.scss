@@ -1,0 +1,34 @@
+.footer {
+  position: relative;
+  bottom: 0;
+  left: 0;
+  height: 60px;
+  width: 100%;
+  background-color: #13aad2;
+  color: #fff;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  font-size: 12px;
+  border-top: 1px solid #eee;
+  .friend-link,
+  .footer-text {
+    padding-bottom: 10px;
+    >span {
+      padding-right: 15px;
+    }
+    >a {
+      font-size: 12px;
+      padding-left: 5px;
+      color: #fff;
+    }
+    >a:hover {
+      color: #eee !important;
+      cursor: pointer;
+    }
+  }
+  .footer-text {
+    padding-bottom: 1px;
+  }
+}

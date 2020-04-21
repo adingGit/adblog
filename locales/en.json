@@ -1,0 +1,76 @@
+{
+  "appOwner": "Ading",
+  "appTitle": "'s blog",
+  "navbar": [{
+    "name": "Home",
+    "path": "/"
+  },{
+    "name": "Front",
+    "path": "/type/front"
+  },{
+    "name": "kdcloud",
+    "path": "/type/kdcloud"
+  },{
+    "name": "PHP",
+    "path": "/type/PHP"
+  },{
+    "name": "Mysql",
+    "path": "/type/MySQL"
+  },{
+    "name": "Other",
+    "path": "/type/other"
+  },{
+    "name": "About",
+    "path": "/aboutme"
+  }],
+  "pleaseEnterKeyword": "Please enter the search keyword",
+  "myLabel": "my label",
+  "copyright": "copyright",
+  "search": "search",
+  "langs": [{
+    "name": "Chinese",
+    "value": "zh"
+  },{
+    "name": "English",
+    "value": "en"
+  }],
+  "isNoData": "no data now",
+  "aboutme": {
+    "gitAddress": "project git address",
+    "motto": "A thousand miles without a single step;Not small flow, beyond into the sea."
+  },
+  "expand": "expand",
+  "expandIcon": "el-icon-d-arrow-right",
+  "collapse": "collapse",
+  "collapseIcon": "el-icon-d-arrow-left",
+  "kdcloudBlog": {
+    "name": "Ading's Blog",
+    "icon": "el-icon-document",
+    "iframeUrl": "/type/kdcloud"
+  },
+  "kdcloudMenus": [{
+    "name": "Domain Model",
+    "icon": "el-icon-s-promotion",
+    "iframeUrl": "/kdapi/core/"
+  },{
+    "name": "Basic Service",
+    "icon": "el-icon-menu",
+    "iframeUrl": "/kdapi/base/"
+  },{
+    "name": "Cloud Architecture",
+    "icon": "el-icon-s-shop",
+    "iframeUrl": "/kdapi/corelib/"
+  },{
+    "name": "Component API",
+    "icon": "el-icon-s-ticket",
+    "iframeUrl": "/kdapi/fddoc/"
+  },{
+    "name": "Workflow",
+    "icon": "el-icon-s-flag",
+    "iframeUrl": "/kdapi/wf/"
+  },{
+    "name": "Java Package",
+    "icon": "el-icon-s-opportunity",
+    "iframeUrl": "/kdapi/ks-api/"
+  }]
+}
