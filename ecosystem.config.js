@@ -1,6 +1,6 @@
 module.exports = {
   apps : [{
-    name: 'adblog3',
+    name: 'adblog',
     script: 'server.js',
     cwd:"./",
     // Options reference: https://pm2.keymetrics.io/docs/usage/application-declaration/
