@@ -31,11 +31,11 @@
     "koa2-cors": "^2.0.6",
     "lodash": "^4.17.15",
     "nuxt": "^2.0.0",
+    "sass-loader": "^8.0.2",
     "vue-i18n": "^8.17.0"
   },
   "devDependencies": {
     "node-sass": "^4.13.1",
-    "nodemon": "^1.18.9",
-    "sass-loader": "^8.0.2"
+    "nodemon": "^1.18.9"
   }
 }
