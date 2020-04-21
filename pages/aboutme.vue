@@ -45,14 +45,18 @@
       .img-box {
         width: 100px;
         height: 100px;
-        padding: 3px;
         border: 1px solid #aaa;
         border-radius: 50%;
         box-sizing: border-box;
         text-align: center;
-        padding-top: 15px;
+        padding: 0;
+        overflow: hidden;
+        display: flex;
+        justify-content: center;
+        align-items: center;
         img {
-          width: 85%;
+          width: 80%;
+          height: 80%;
         }
       }
       .info-box {
