@@ -11,11 +11,11 @@
     "name": "kdcloud",
     "path": "/type/kdcloud"
   },{
-    "name": "PHP",
-    "path": "/type/PHP"
+    "name": "Rear",
+    "path": "/type/rear"
   },{
-    "name": "Mysql",
-    "path": "/type/MySQL"
+    "name": "Sql",
+    "path": "/type/sql"
   },{
     "name": "Other",
     "path": "/type/other"
